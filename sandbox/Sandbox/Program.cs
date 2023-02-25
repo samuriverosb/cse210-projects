@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Sandbox World!");
+        string[] animals = {"This is a phrase", "This is another phrase", "this is the third phrase"};
+        Console.WriteLine(animals);
     }
 }
