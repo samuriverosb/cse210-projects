@@ -1,0 +1,4 @@
+770
+SimpleGoal:Work out Everyday,I want to work out every single day,100,True
+EternalGoal:Read the scriptures,Read at least 30 minutes each day,50
+ChecklistGoal:Study everyday,I want to dedicate at least 3 hours of study everyday,30,500,5,3
